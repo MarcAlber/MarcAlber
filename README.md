@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcAlber
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Technology, Sports, and Anime
+- 🌱 I’m currently learning Flutter and React Native
+- 💞️ I’m looking to collaborate on Mobile and Arduino Projects
 - 📫 How to reach me: marcalbert29@yahoo.com
 
 <!---
